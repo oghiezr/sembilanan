@@ -2,7 +2,7 @@
 by www.sembilanan.tk */
 
 var pop = document.createElement('script'); pop.type = 'text/javascript'; pop.setAttribute('data-cfasync', false);
-pop.src = "https://github.com/oghiezr/sembilanan/new/master";
+pop.src = "https://github.com/oghiezr/sembilanan/blob/master/ikla.js";
 document.getElementsByTagName('head')[0].appendChild(pop);
 
 //jQuery Auto Click Chrome
